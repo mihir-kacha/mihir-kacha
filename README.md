@@ -40,14 +40,6 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert*
 
 ---
 
-## 📌 Projects I'm Proud Of
-
-- **[Listogram](https://github.com/mihir-kacha):** A platform for posting ads filtered by location.
-- **[Cappsule](https://play.google.com/store/apps/details?id=com.cappsule):** A medicine-ordering app for nearby pharmacies.
-- **E-commerce App:** A scalable and efficient shopping platform built for modern businesses.
-
----
-
 ## 🌐 Connect With Me  
 
 - 💼 [Upwork Profile](https://www.upwork.com/freelancers/applicationdeveloper)
