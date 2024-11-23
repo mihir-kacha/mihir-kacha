@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mihir Kacha!  
+# Hi there 👋, I'm Mihir Kacha!
 
 ## 🎯 **Passionate Flutter Developer | Firebase Expert | Cross-Platform App Specialist | SaaS Product Creator | Full-Time Freelancer**
 
