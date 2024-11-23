@@ -16,6 +16,17 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert*
 
 ---
 
+## 🌟 Technologies I Work With
+
+- **Frontend**: Flutter (Expert in Cross-Platform Development)
+- **Backend**: Firebase, NestJS, Node.js
+- **Platforms**: Android, iOS, Web, macOS, Windows
+- **Databases**: Firestore, SQLite, Drift
+- **Tools**: Git, VS Code, Xcode, Android Studio
+- **Other Skills**: Agora, Stripe, Razorpay, RevenueCat, Google Maps
+
+---
+
 ## 📊 GitHub Stats
 
 ### 🔥 My GitHub Streak
@@ -26,17 +37,6 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert*
 
 ### 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihir-kacha&layout=compact&theme=merko&title_color=00ffcc&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10&count_private=true)
-
----
-
-## 🌟 Technologies I Work With
-
-- **Frontend**: Flutter (Expert in Cross-Platform Development)
-- **Backend**: Firebase, NestJS, Node.js
-- **Platforms**: Android, iOS, Web, macOS, Windows
-- **Databases**: Firestore, SQLite, Drift
-- **Tools**: Git, VS Code, Xcode, Android Studio
-- **Other Skills**: Agora, Stripe, Razorpay, RevenueCat, Google Maps
 
 ---
 
