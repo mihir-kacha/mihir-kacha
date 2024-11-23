@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mihir Kacha!  
 
-**Passionate Flutter Developer | Firebase Expert | Cross-Platform App Specialist | SaaS Product Creator | Full-Time Freelancer**
+🎯 **Passionate Flutter Developer | Firebase Expert | Cross-Platform App Specialist | SaaS Product Creator | Full-Time Freelancer**
 
 Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert** with over **4 years of experience** creating scalable and user-friendly applications. My expertise lies in building **cross-platform apps** that seamlessly run on **Android, iOS, Web, macOS, and Windows**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time freelancer**, I am committed to delivering high-quality projects to meet client goals.
 
@@ -16,7 +16,17 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert*
 
 ---
 
-## 🌟 Technologies I Work With
+## 🌟 Highlights
+
+- 💎 Top Rated freelancer on Upwork
+- 🏆 Full-time freelancing for 3+ years, ensuring client satisfaction and timely delivery.
+- 💻 Proficient in integrating features like real-time messaging, notifications, subscription modules, and payment gateways.
+- 🔒 Prioritize security and compliance, with experience in GDPR compliance and secure data storage.
+- 🌍 Open to freelance projects, collaborations, and exciting opportunities in Flutter development.
+
+---
+
+## 🚀 Technologies I Work With
 
 - **Frontend**: Flutter (Expert in Cross-Platform Development)
 - **Backend**: Firebase, NestJS, Node.js
@@ -24,16 +34,6 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert*
 - **Databases**: Firestore, SQLite, Drift
 - **Tools**: Git, VS Code, Xcode, Android Studio
 - **Other Skills**: Agora, Stripe, Razorpay, RevenueCat, Google Maps
-
----
-
-## 🌟 Highlights
-
-- 💎 Top Rated freelancer on Upwork
-- 🏆 Full-time freelancing for 1.5+ years, ensuring client satisfaction and timely delivery.
-- 💻 Proficient in integrating features like real-time messaging, notifications, subscription modules, and payment gateways.
-- 🔒 Prioritize security and compliance, with experience in GDPR compliance and secure data storage.
-- 🌍 Open to freelance projects, collaborations, and exciting opportunities in Flutter development.
 
 ---
 
