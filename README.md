@@ -27,6 +27,16 @@ Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert*
 
 ---
 
+## 🌟 Highlights
+
+- 💎 Top Rated freelancer on Upwork
+- 🏆 Full-time freelancing for 1.5+ years, ensuring client satisfaction and timely delivery.
+- 💻 Proficient in integrating features like real-time messaging, notifications, subscription modules, and payment gateways.
+- 🔒 Prioritize security and compliance, with experience in GDPR compliance and secure data storage.
+- 🌍 Open to freelance projects, collaborations, and exciting opportunities in Flutter development.
+
+---
+
 ## 📊 GitHub Stats
 
 ### 🔥 My GitHub Streak
