@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Mihir Kacha!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeshsavaliya0803&label=Profile%20views&color=0e75b6&style=flat" alt="rajeshsavaliya0803" /> </p>
+
 ## 🎯 **Passionate Flutter Developer | Firebase Expert | Cross-Platform App Specialist | SaaS Product Creator | Full-Time Freelancer**
 
 Welcome to my GitHub profile! I'm a **Flutter Developer** and **Firebase Expert** with over **4 years of experience** creating scalable and user-friendly applications. My expertise lies in building **cross-platform apps** that seamlessly run on **Android, iOS, Web, macOS, and Windows**. Currently, I'm working on an innovative **SaaS product** to revolutionize business efficiency. As a **full-time freelancer**, I am committed to delivering high-quality projects to meet client goals.
